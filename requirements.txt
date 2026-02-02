@@ -1,0 +1,8 @@
+flask
+google-genai
+ephem
+lunar_python
+pytz
+markdown
+requests
+gunicorn
